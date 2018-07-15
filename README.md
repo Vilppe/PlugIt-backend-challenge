@@ -1,4 +1,20 @@
-###Original README of the challenge:
+# Plugit Challenge Back-end
+## by Vili Manninen
+
+This is my take on the PlugIt back-end challenge
+
+To start run this command in the project root folder:
+```
+node --inspect development/httpResponse.js
+```
+in the Plugit-backend-challenge folder
+
+and navigate to this address with your web browser:
+```
+http://localhost:1337/response
+```
+
+### Original README of the challenge:
 
 # Plugit Challenge Back-end
 
