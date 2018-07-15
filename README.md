@@ -1,5 +1,5 @@
 # Plugit Challenge Back-end
-## by Vili Manninen
+#### by Vili Manninen
 
 This is my take on the PlugIt back-end challenge
 
@@ -13,8 +13,9 @@ and navigate to this address with your web browser:
 ```
 http://localhost:1337/response
 ```
+<br /><br /><br /><br /><br /><br /><br /><br />
 
-### Original README of the challenge:
+#### Original README of the challenge:
 
 # Plugit Challenge Back-end
 
