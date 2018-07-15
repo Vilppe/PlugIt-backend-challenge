@@ -36,7 +36,6 @@ function getMostCommonCPs(array, howmany) {
         bestChargePointsWithAmounts.unshift([mostCommon, leaderOccurences]);
         chargePointOccurences = {};
         leaderOccurences = 0;
-        console.log(iters);
     }
     return bestChargePointsWithAmounts;
 }
