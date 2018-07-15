@@ -3,7 +3,10 @@
 
 This is my take on the PlugIt back-end challenge
 
-To start run this command in the project root folder:
+To start run these commands in the project root folder:
+```
+npm install uuid-v4
+```
 ```
 node --inspect development/httpResponse.js
 ```
